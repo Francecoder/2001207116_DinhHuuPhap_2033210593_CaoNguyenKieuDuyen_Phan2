@@ -1,0 +1,2 @@
+Tour order: a-b-c-d-e-f-a
+Total distance: 50.00

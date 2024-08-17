@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2001207116_DinhHuuPhap_Phan2\\Bai2_LuaChonHoatDong\\2001207116_DinhHuuPhap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCEAB16-B700-4DD8-94EE-1C388FFBBF08}|2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap.vcxproj|D:\\2001207116_DinhHuuPhap_Phan2\\Bai2_LuaChonHoatDong\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\ChooseActivity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDCEAB16-B700-4DD8-94EE-1C388FFBBF08}|2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap.vcxproj|solutionrelative:2001207116_DinhHuuPhap\\ChooseActivity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCEAB16-B700-4DD8-94EE-1C388FFBBF08}|2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap.vcxproj|D:\\2001207116_DinhHuuPhap_Phan2\\Bai2_LuaChonHoatDong\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\input_bai2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CDCEAB16-B700-4DD8-94EE-1C388FFBBF08}|2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap.vcxproj|solutionrelative:2001207116_DinhHuuPhap\\input_bai2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input_bai2.txt",
+              "DocumentMoniker": "D:\\2001207116_DinhHuuPhap_Phan2\\Bai2_LuaChonHoatDong\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\input_bai2.txt",
+              "RelativeDocumentMoniker": "2001207116_DinhHuuPhap\\input_bai2.txt",
+              "ToolTip": "D:\\2001207116_DinhHuuPhap_Phan2\\Bai2_LuaChonHoatDong\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\input_bai2.txt",
+              "RelativeToolTip": "2001207116_DinhHuuPhap\\input_bai2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-17T16:06:36.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChooseActivity.cpp",
+              "DocumentMoniker": "D:\\2001207116_DinhHuuPhap_Phan2\\Bai2_LuaChonHoatDong\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\ChooseActivity.cpp",
+              "RelativeDocumentMoniker": "2001207116_DinhHuuPhap\\ChooseActivity.cpp",
+              "ToolTip": "D:\\2001207116_DinhHuuPhap_Phan2\\Bai2_LuaChonHoatDong\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\ChooseActivity.cpp",
+              "RelativeToolTip": "2001207116_DinhHuuPhap\\ChooseActivity.cpp",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAcwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T16:06:22.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
