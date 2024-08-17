@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2001207116_DinhHuuPhap_Phan2\\Bai1_Greedy\\DinhHuuPhap_BT3_Greedy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F740C78F-F2E4-402B-A96A-BE38BBE2D6AA}|DinhHuuPhap_BT3_Greedy\\DinhHuuPhap_BT3_Greedy.vcxproj|D:\\2001207116_DinhHuuPhap_Phan2\\Bai1_Greedy\\DinhHuuPhap_BT3_Greedy\\DinhHuuPhap_BT3_Greedy\\Greedy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F740C78F-F2E4-402B-A96A-BE38BBE2D6AA}|DinhHuuPhap_BT3_Greedy\\DinhHuuPhap_BT3_Greedy.vcxproj|solutionrelative:DinhHuuPhap_BT3_Greedy\\Greedy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F740C78F-F2E4-402B-A96A-BE38BBE2D6AA}|DinhHuuPhap_BT3_Greedy\\DinhHuuPhap_BT3_Greedy.vcxproj|D:\\2001207116_DinhHuuPhap_Phan2\\Bai1_Greedy\\DinhHuuPhap_BT3_Greedy\\DinhHuuPhap_BT3_Greedy\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F740C78F-F2E4-402B-A96A-BE38BBE2D6AA}|DinhHuuPhap_BT3_Greedy\\DinhHuuPhap_BT3_Greedy.vcxproj|solutionrelative:DinhHuuPhap_BT3_Greedy\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "D:\\2001207116_DinhHuuPhap_Phan2\\Bai1_Greedy\\DinhHuuPhap_BT3_Greedy\\DinhHuuPhap_BT3_Greedy\\input.txt",
+              "RelativeDocumentMoniker": "DinhHuuPhap_BT3_Greedy\\input.txt",
+              "ToolTip": "D:\\2001207116_DinhHuuPhap_Phan2\\Bai1_Greedy\\DinhHuuPhap_BT3_Greedy\\DinhHuuPhap_BT3_Greedy\\input.txt",
+              "RelativeToolTip": "DinhHuuPhap_BT3_Greedy\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-07T03:49:19.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Greedy.cpp",
+              "DocumentMoniker": "D:\\2001207116_DinhHuuPhap_Phan2\\Bai1_Greedy\\DinhHuuPhap_BT3_Greedy\\DinhHuuPhap_BT3_Greedy\\Greedy.cpp",
+              "RelativeDocumentMoniker": "DinhHuuPhap_BT3_Greedy\\Greedy.cpp",
+              "ToolTip": "D:\\2001207116_DinhHuuPhap_Phan2\\Bai1_Greedy\\DinhHuuPhap_BT3_Greedy\\DinhHuuPhap_BT3_Greedy\\Greedy.cpp",
+              "RelativeToolTip": "DinhHuuPhap_BT3_Greedy\\Greedy.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T03:49:06.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
